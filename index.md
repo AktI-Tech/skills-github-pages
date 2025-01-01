@@ -4,9 +4,10 @@ title: AKT AI Agent Makers
 <header>
 
 </header>
+
 ## Announcement 📢: 
 
-_AI Agents are here! Learning experimenting with various AI Models_
+_AI Agents are here! Learning... experimenting with various AI Models...._
 <!--
 <img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
 -->

@@ -17,7 +17,7 @@ _AI Agents are here❗ Learning... experimenting with various AI Models...._
 ## About 🫵🏿:
 
 
-_We will shortly begin service offerings... mostly voluntarily.... internal project... however.. [sponsors](https://github.com/sponsors/accounts) may just be sufficient. Can't escape _capitalism_? Can we?_
+_We will shortly begin service offerings... mostly voluntarily.... internal project... however.. [sponsors](https://github.com/sponsors/accounts) may just be sufficient. Can't escape capitalism? Can we?_
 
 _Anything that helps is good._
 

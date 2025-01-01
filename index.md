@@ -12,10 +12,10 @@ _AI Agents are here! Learning experimenting with various AI Models_
 -->
 </header>
 
-## About
+## About 🫵🏿:
 
 
-_We'll will try to __begin__ our services by offering mostly voluntarily services, but a little help might be sought. Can't escape __capitalism__ Can we?_
+_We will try to __begin__ services offerings mostly voluntarily, but a little help might be sought. Can't escape __capitalism__ Can we?_
 
 _Anything that helps is good._
 

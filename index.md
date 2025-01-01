@@ -16,7 +16,7 @@ _AI Agents are here! Learning... experimenting with various AI Models...._
 ## About 🫵🏿:
 
 
-_We will try to _begin_ services offerings mostly voluntarily, but a little help might be sought. Can't escape _capitalism_? Can we?_
+_We will try to _begin_ service offerings... mostly voluntarily.... however.. [sponsors](https://github.com/sponsors/accounts) may just be sufficient 😜. Can't escape _capitalism_? Can we? can't even think about keeping a partner without it_
 
 _Anything that helps is good._
 

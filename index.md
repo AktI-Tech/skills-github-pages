@@ -15,7 +15,7 @@ _AI Agents are here! Learning experimenting with various AI Models_
 ## About 🫵🏿:
 
 
-_We will try to __begin__ services offerings mostly voluntarily, but a little help might be sought. Can't escape __capitalism__ Can we?_
+_We will try to _begin_ services offerings mostly voluntarily, but a little help might be sought. Can't escape _capitalism_? Can we?_
 
 _Anything that helps is good._
 

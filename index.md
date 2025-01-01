@@ -21,6 +21,7 @@ _We will shortly begin service offerings... mostly voluntarily.... internal proj
 
 _Anything that helps is good._
 
-<!--
 <img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
+<!--
+<img src=https://octodex.github.com/images/constructocat2jpg alt=celebrate width=300 align=right>
 -->

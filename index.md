@@ -1,4 +1,4 @@
 ---
-title: You're In - AKTAINT
+title: AKT AI Agent Makers
 ---
 

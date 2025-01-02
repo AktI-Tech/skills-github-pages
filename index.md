@@ -3,6 +3,8 @@ title: AKT AI Agent Makers
 ---
 <header>
 
+[AKT Logo](https://avatars.githubusercontent.com/u/180512282?v=4&size=64)
+
 </header>
 
 ## Announcement 📢: 

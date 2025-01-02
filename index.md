@@ -2,10 +2,7 @@
 title: AKT AI Agent Makers
 ---
 <header>
-<!--
-[AKT Logo](https://avatars.githubusercontent.com/u/180512282)
--->
-
+  
 [Contact Us](https://aktai.slack.com) Now!
 
 </header>

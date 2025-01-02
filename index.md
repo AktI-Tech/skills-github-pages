@@ -3,7 +3,6 @@ title: AKT AI Agent Makers
 ---
 <header>
   
-[Contact Us](https://aktai.slack.com) Now!
 
 </header>
 
@@ -25,8 +24,9 @@ _We will **shortly** begin service offerings, mostly voluntarily and internal pr
 > Anything that helps is good.
 
 
-![Construction Img](<src img=https://octodex.github.com/images/constructocat2.jpg width="200" height="200">)
+[Contact Us](https://aktai.slack.com) Now!
 
 <!--
+![Construction Img](<src img=https://octodex.github.com/images/constructocat2.jpg width="200" height="200">)
 <img src=https://octodex.github.com/images/constructocat2jpg alt=celebrate width=300 align=right>
 -->

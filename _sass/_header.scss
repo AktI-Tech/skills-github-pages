@@ -1,0 +1,75 @@
+// Site Header Styling
+.site-header {
+  background-color: $primary-color;
+  color: $text-light;
+  padding: 1.5em 0; // Slightly increased padding
+  text-align: center;
+  border-bottom: 3px solid darken($primary-color, 10%); // Added a border for depth
+
+  .container { // Ensure container within header behaves as expected
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    @media (min-width: 768px) { // On larger screens, allow title and nav to be side-by-side
+      flex-direction: row;
+      justify-content: space-between;
+    }
+  }
+
+  .site-title {
+    margin: 0; // Remove default h1 margin
+    font-size: 2em; // Adjust size as needed
+    color: $text-light;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: none; // No underline for site title hover
+    }
+  }
+}
+
+// Site Navigation Styling (moved from _layout.scss and can be expanded here)
+.site-nav {
+  margin-top: 1em;
+
+  @media (min-width: 768px) {
+    margin-top: 0; // No top margin when side-by-side with title
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+
+    li {
+      margin: 0 0.75em; // Slightly reduced margin for nav items
+
+      a {
+        color: $text-light;
+        font-weight: bold;
+        text-decoration: none;
+        padding: 0.5em; // Add some padding for easier clicking
+        border-radius: 4px; // Rounded corners for nav links
+
+        &:hover {
+          background-color: darken($primary-color, 10%); // Darken background on hover
+          text-decoration: none;
+        }
+      }
+    }
+
+    // Responsive stacking (already implemented, kept here for context)
+    @media (max-width: 600px) {
+      flex-direction: column;
+      align-items: center;
+
+      li {
+        margin: 0.5em 0;
+      }
+    }
+  }
+}

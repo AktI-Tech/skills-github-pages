@@ -1,0 +1,23 @@
+// Site Footer Styling
+.site-footer {
+  background-color: $text-dark;
+  color: $text-light;
+  padding: 2em 0;
+  text-align: center;
+  margin-top: 3em; // Added a bit more top margin for separation
+  border-top: 3px solid darken($text-dark, 10%); // Added a border for depth
+
+  p {
+    margin: 0;
+    font-size: 0.9em;
+  }
+
+  a { // If any links are in the footer
+    color: $secondary-color; // Example: use secondary color for footer links
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}

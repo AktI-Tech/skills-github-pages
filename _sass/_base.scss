@@ -1,0 +1,43 @@
+// Box-sizing reset
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: $font-family-body;
+  color: $text-dark;
+  background-color: $background-light;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family-headings;
+  font-weight: 700; // Assuming headings are generally bolder
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  color: $primary-color; // Example: headings use primary color
+}
+
+h1 { font-size: 2.5em; }
+h2 { font-size: 2em; }
+h3 { font-size: 1.75em; }
+h4 { font-size: 1.5em; }
+h5 { font-size: 1.25em; }
+h6 { font-size: 1em; }
+
+p {
+  margin-bottom: 1em;
+}
+
+a {
+  color: $accent-color; // Using accent color for links
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}

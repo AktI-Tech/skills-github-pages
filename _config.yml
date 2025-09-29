@@ -1,4 +1,6 @@
+theme: jekyll-theme-minimal
 plugins:
+  - jekyll-remote-theme
 title: AKT AI Technologies Nepal
 description: [AI Agent Makers of Nepal]
 formspree_endpoint: "YOUR_FORMSPREE_ENDPOINT_HERE"
